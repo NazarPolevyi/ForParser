@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{BBB96DCD-5482-491B-9789-CD4E612B7E1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainenceTask", "WebApplication3\BrainenceTask.csproj", "{BBB96DCD-5482-491B-9789-CD4E612B7E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
