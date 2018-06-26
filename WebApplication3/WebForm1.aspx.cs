@@ -74,7 +74,10 @@ namespace WebApplication3
 
                         }
 
+
+
                     }
+
                 }
 
                 return sentencesStore;
