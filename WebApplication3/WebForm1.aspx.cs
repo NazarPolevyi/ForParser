@@ -16,6 +16,7 @@ namespace WebApplication3
     public class Sentence
     {
         private int entries;
+        private double s;
         private string words;
         public Sentence()
         {
